@@ -1,0 +1,20 @@
+div.row  {padding: 1.5em}
+div.div2 {display: flex; justify-content: flex-end;}
+div.li { margin: 0.5em 0 0.5em 0;}
+div.btn-group {margin-top: 0.5em}
+div#tobedone {border: black thin solid; border-radius: 30px 0 0 30px; box-shadow: 0px 20px 25px;}
+div.div1 {border-radius: 25px 0 0 25px; transition: 0.25s ease-in-out;}
+div.input-group {bottom: 0px}
+div.flex {display: flex; justify-content: space-around; align-items: flex-end;}
+
+button.btn {border: thin black solid; margin-bottom: 0.5em;}
+input#todo {}
+#hidninput {width: 50%; border: thin black solid; border-radius: 20px%}
+
+h1 {text-align: center; text-decoration: underline; font-weight: bold;}
+h2 {padding: 0; font-family: sans-serif; text-decoration: underline; text-decoration-style: dashed; text-transform: uppercase;}
+
+span.li {font-size: 20px; overflow-wrap: break-word;
+          transition: 0.25s ease-in-out; border-radius: 20px 0 0px 20px}
+.complete {text-decoration: line-through; background-color: darkgrey; border-radius: 40px}
+span.li:hover {background-color: lightgrey}
